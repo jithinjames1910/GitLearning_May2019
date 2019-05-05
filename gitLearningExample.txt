@@ -1,1 +1,2 @@
 this change is from user1
+user 2 has changed the file.
